@@ -47,7 +47,7 @@ void main()
 { 
 int gd,gm,x,y,z,o,x1,x2,y1,y2; 
 detectgraph(&gd,&gm); 
-initgraph(&gd,&gm," "); 
+initgraph(&gd,&gm,"c://turboc3//bgi");
 setfillstyle(0,getmaxcolor()); 
 maxx=getmaxx(); 
 maxy=getmaxy(); 
